@@ -36,7 +36,7 @@ Used the Titanic dataset to build a model that predicts whether a passenger on t
 
 📫  How to reach Codsoft: **contact@codsoft.in**
   
-💻  How to reach Codsoft: **https://www.codsoft.in/**
+💻  Be sure to check out their site for more: **https://www.codsoft.in/**
 
 <h3 align="left">Connect with Codsoft:</h3>
 <p align="left">
