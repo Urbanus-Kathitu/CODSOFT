@@ -23,16 +23,16 @@ Below are three of the Tasks I chose and how I tackled each to showcase my data 
 # Chosen Tasks:
 **Task 1: CREDIT CARD FRAUD DETECTION**
 
-Build a machine learning model to identify fraudulent credit card transactions. See the full description of the project in the Task1 folder.
+Build a machine learning model to identify fraudulent credit card transactions. I was required to train a classification algorithm, such as logistic regression or random forests, to classify transactions as fraudulent or genuine.I further had to evaluate the model's performance using metrics like precision, recall, and F1-score, and consider techniques like oversampling or undersampling for improving results. Follow my walkthrough and the full description of the project in the **Task 1 folder**.
 
 **Task 2: MOVIE RATING PREDICTION WITH PYTHON**
 
 Build a model that predicts the rating of a movie based onfeatures like genre, director, and actors using regression techniques to tackle this problem.
-The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics.
+The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics. Follow my walkthrough and the full description of the project in the **Task 2 folder**
 
 **Task 3: TITANIC SURVIVAL PREDICTION**
 
-Used the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. Follow my walkthrough and the full description of the project in the Task 3 folder.
+Used the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. Follow my walkthrough and the full description of the project in the **Task 3 folder**.
 
 📫  How to reach Codsoft: **contact@codsoft.in**
   
