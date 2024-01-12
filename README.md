@@ -32,3 +32,8 @@ Predicting future sales is crucial for businesses, and I delved into this realm 
 **Task 3: Titanic Survival Prediction**
 
 Used the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. Follow my walkthrough and the full description of the project in the Task 3 folder.
+
+https://www.codsoft.in/
+
+https://www.linkedin.com/company/codsoft/
+
