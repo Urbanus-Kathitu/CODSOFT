@@ -21,15 +21,16 @@ For the Data Science internship, I was required to complete at least
 Below are three of the Tasks I chose and how I tackled each to showcase my data science skills.
 
 # Chosen Tasks:
-**Task 1: Credit Card Fraud Detection**
+**Task 1: CREDIT CARD FRAUD DETECTION**
 
 Build a machine learning model to identify fraudulent credit card transactions. See the full description of the project in the Task1 folder.
 
-**Task 2: Sales Prediction Using Python**
+**Task 2: MOVIE RATING PREDICTION WITH PYTHON**
 
-Predicting future sales is crucial for businesses, and I delved into this realm by forecasting product purchases. Leveraging machine learning techniques in Python, I analyzed factors like advertising expenditure, target audience segmentation, and advertising platform selection. Explore the implementation in the Task 3 folder for insights.
+Build a model that predicts the rating of a movie based onfeatures like genre, director, and actors using regression techniques to tackle this problem.
+The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics.
 
-**Task 3: Titanic Survival Prediction**
+**Task 3: TITANIC SURVIVAL PREDICTION**
 
 Used the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. Follow my walkthrough and the full description of the project in the Task 3 folder.
 
