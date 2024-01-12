@@ -33,9 +33,16 @@ Predicting future sales is crucial for businesses, and I delved into this realm 
 
 Used the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. Follow my walkthrough and the full description of the project in the Task 3 folder.
 
-- 📫 How to reach Codsoft: **contact@codsoft.in**
+📫  How to reach Codsoft: **contact@codsoft.in**
   
-https://www.codsoft.in/
+💻  How to reach Codsoft: **https://www.codsoft.in/**
 
-https://www.linkedin.com/company/codsoft/
+<h3 align="left">Connect with Codsoft:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://https://www.linkedin.com/company/codsoft/” target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/company/codsoft/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
 
